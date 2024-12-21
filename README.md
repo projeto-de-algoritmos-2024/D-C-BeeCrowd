@@ -38,4 +38,4 @@ Para testar os códigos, basta entrar na plataforma [BeeCrowd](https://judge.bee
 
 As apresentações de cada entrega estão presente nos hiperlinks a seguir:
 
-| [3º Entrega](x) | Dividir e Conquistar |
+| [3º Entrega](https://youtu.be/CjYdMkoZUkk) | Dividir e Conquistar |
